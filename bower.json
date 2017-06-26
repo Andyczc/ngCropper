@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "angular": "~1.4.1"
+    "angular": "^1.6.4"
   },
   "devDependencies": {
     "cropper": "~0.10.0",
